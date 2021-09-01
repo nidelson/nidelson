@@ -14,3 +14,5 @@ More than 25 years of experience in software development, web application specia
 ![Profile Stats](https://github-profile-stats.vercel.app/api/?username=nidelson&theme=dark&locale=en)
 
 ![Profile Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nidelson&layout=compact&theme=dark&locale=en)
+
+![Snake animation](https://github.com/nidelson/nidelson/blob/output/github-contribution-grid-snake.svg)
