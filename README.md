@@ -27,7 +27,7 @@ More than 25 years of experience in software development, web application specia
 
 </div>
 
-<div style="margin: 16px 0">
+<div style="display: inline_block; margin: 16px 0">
 
 ![Profile Stats](https://github-profile-trophy.vercel.app/api/?username=nidelson&theme=dark&locale=en)
 
