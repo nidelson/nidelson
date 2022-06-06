@@ -21,12 +21,6 @@ More than 25 years of experience in software development, web application specia
   <img align="center" alt="Nidelson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<div style="margin: 16px 0">
-
-![Snake animation](https://github.com/nidelson/nidelson/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
 <div style="display: inline_block; margin: 16px 0">
 
 ![Profile Stats](https://github-profile-trophy.vercel.app/api/?username=nidelson&theme=dark&locale=en)
