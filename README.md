@@ -1,6 +1,6 @@
 # Nidelson Gimenez
 
-## Software Developer
+## Software Engineer
 
 More than 25 years of experience in software development, web application specialist. Passionate about Javascript, Typescript, React, Node and the entire ecosystem around these technologies. Detailist focused on quality. Always seeking to improve development and communication processes. Adept at Clean Code and agile methodologies like Scrum and Kanban, as well as Holaccracy.
 
