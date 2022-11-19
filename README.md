@@ -2,17 +2,16 @@
 
 ## Software Engineer
 
-More than 25 years of experience in software development, web application specialist. Passionate about Javascript, Typescript, React, Node and the entire ecosystem around these technologies. Detailist focused on quality. Always seeking to improve development and communication processes. Adept at Clean Code and agile methodologies like Scrum and Kanban, as well as Holaccracy.
+More than 25 years of experience in software development, web application specialist. Passionate about Javascript, Typescript, React, Node and the entire ecosystem around these technologies. Detailist focused on quality. Always seeking to improve development and communication processes. Adept at Clean Code, Clean Architecture and agile methodologies like Scrum and Kanban, as well as Holaccracy.
 
 <div style="margin: 16px 0">
-
-![Profile Stats](https://github-profile-stats.vercel.app/api/?username=nidelson&show_icons=true&theme=dark&locale=en)
 
 ![Profile Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nidelson&layout=compact&theme=dark&locale=en)
 
 </div>
 
-<div style="display: inline_block; margin: 16px 0">
+<div style="display: inline_block; margin: 16px 0;">
+  <img align="center" alt="Nidelson-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   <img align="center" alt="Nidelson-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nidelson-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Nidelson-ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -21,9 +20,7 @@ More than 25 years of experience in software development, web application specia
   <img align="center" alt="Nidelson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<div style="display: inline_block; margin: 16px 0">
-
-![Profile Stats](https://github-profile-trophy.vercel.app/api/?username=nidelson&theme=dark&locale=en)
+<div style="display: inline_block; margin: 16px 0;">
 
 [![Twitter Badge](https://img.shields.io/badge/-@NidelsonGimenez-369?style=flat-square&labelColor=369&logo=twitter&logoColor=white&link=https://twitter.com/NidelsonGimenez)](https://twitter.com/NidelsonGimenez)
 [![Linkedin Badge](https://img.shields.io/badge/-Nidelson%20Gimenez-369?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nidelson)](https://linkedin.com/in/nidelson)
