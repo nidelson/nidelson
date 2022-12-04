@@ -20,7 +20,7 @@ More than 25 years of experience in software development, web application specia
   <img align="center" alt="Nidelson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<div style="display: inline_block; margin: 16px 0;">
+<div style="display: inline_block; margin: 16px 0; padding-top: 16px;">
 
 [![Twitter Badge](https://img.shields.io/badge/-@NidelsonGimenez-369?style=flat-square&labelColor=369&logo=twitter&logoColor=white&link=https://twitter.com/NidelsonGimenez)](https://twitter.com/NidelsonGimenez)
 [![Linkedin Badge](https://img.shields.io/badge/-Nidelson%20Gimenez-369?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nidelson)](https://linkedin.com/in/nidelson)
