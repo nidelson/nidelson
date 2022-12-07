@@ -4,7 +4,7 @@
 
 More than 25 years of experience in software development, web application specialist. Passionate about JavaScript, TypeScript, React, React Native, Node, Next and the entire ecosystem around these technologies. Detailist focused on quality. Always seeking to improve development and communication processes. Adept at Clean Code, Clean Architecture and agile methodologies like Scrum, Kanban and SAFe, as well as Holaccracy.
 
-<div style="display:flex; margin: 16px 0; gap: 16px;">
+<div style="display:flex; padding: 16px 0; gap: 16px;">
   <div style="min-width: 256px; width: 50%">
     <img height="180em" src="https://github-readme-status.vercel.app/api?username=nidelson&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   </div>
