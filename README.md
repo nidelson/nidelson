@@ -13,6 +13,8 @@ More than 25 years of experience in software development, web application specia
   </div>
 </div>
 
+<br>
+
 <div style="display: flex; margin: 16px 0; gap: 16px;">
   <img alt="Nidelson-Git" height="40" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">
   <img alt="Nidelson-JS" height="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
