@@ -25,8 +25,17 @@ More than 25 years of experience in software development, web application specia
   <img alt="Nidelson-ReactNative" height="40" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
   <img alt="Nidelson-NextJS" height="40" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png">
   <img alt="Nidelson-Firebase" height="40" src="https://cdn.worldvectorlogo.com/logos/firebase-2.svg">
-  <img alt="Nidelson-HTML" height="40" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
-  <img alt="Nidelson-CSS" height="40" src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
+  <img alt="Nidelson-Firebase" height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png">
+</div>
+
+<div style="display: flex; margin: 16px 0; gap: 16px;">
+  <img alt="Nidelson-Sentry" height="40" src="https://cdn.worldvectorlogo.com/logos/sentry-3.svg">
+  <img alt="Nidelson-NewRelic" height="40" src="https://cdn.worldvectorlogo.com/logos/new-relic-3.svg">
+  <img alt="Nidelson-Bitrise" height="40" src="https://miro.medium.com/max/2400/1*8FdtBWJDE8qkjK3Zp__D4g.png">
+  <img alt="Nidelson-AppCenter" height="40" src="https://seeklogo.com/images/A/app-center-logo-85CB106D3A-seeklogo.com.png">
+  <img alt="Nidelson-AzureDevOps" height="40" src="https://zeevector.com/wp-content/uploads/Azure-Devops-Logo-Transparent.png">
+  <img alt="Nidelson-Vercel" height="40" src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png">
+  <img alt="Nidelson-Turborepo" height="40" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/358/thumb/turbo-logo.png">
 </div>
 
 #
