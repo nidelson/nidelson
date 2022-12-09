@@ -25,7 +25,7 @@ More than 25 years of experience in software development, web application specia
   <img alt="Nidelson-ReactNative" height="40" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
   <img alt="Nidelson-NextJS" height="40" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png">
   <img alt="Nidelson-Firebase" height="40" src="https://cdn.worldvectorlogo.com/logos/firebase-2.svg">
-  <img alt="Nidelson-Firebase" height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png">
+  <img alt="Nidelson-Cypress" height="40" src="https://www.svgrepo.com/show/353630/cypress.svg">
 </div>
 
 <div style="display: flex; margin: 16px 0; gap: 16px;">
@@ -36,6 +36,7 @@ More than 25 years of experience in software development, web application specia
   <img alt="Nidelson-AzureDevOps" height="40" src="https://zeevector.com/wp-content/uploads/Azure-Devops-Logo-Transparent.png">
   <img alt="Nidelson-Vercel" height="40" src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png">
   <img alt="Nidelson-Turborepo" height="40" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/358/thumb/turbo-logo.png">
+  <img alt="Nidelson-MySQL" height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png">
 </div>
 
 #
