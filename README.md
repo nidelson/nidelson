@@ -4,17 +4,13 @@
 
 More than 25 years of experience in software development, web application specialist. Passionate about JavaScript, TypeScript, React, React Native, Node, Next and the entire ecosystem around these technologies. Detailist focused on quality. Always seeking to improve development and communication processes. Adept at Clean Code, Clean Architecture and agile methodologies like Scrum, Kanban and SAFe, as well as Holaccracy.
 
-<div style="display:flex; padding: 16px 0; gap: 16px;">
-  <a href="https://github.com/nidelson" />
-  <div style="width: 50%">
-    <img height="180em" src="https://github-readme-status.vercel.app/api?username=nidelson&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  </div>
-  <div style="width: 50%">
-    <img height="180em" src="https://github-readme-status.vercel.app/api/top-langs/?username=nidelson&layout=compact&langs_count=16&theme=react&locale=en"/>
-  </div>
-</div>
+## Socials
 
-<br>
+[![Twitter Badge](https://img.shields.io/badge/-@NidelsonGimenez-369?style=flat-square&labelColor=369&logo=twitter&logoColor=white&link=https://twitter.com/NidelsonGimenez)](https://twitter.com/NidelsonGimenez)
+[![LinkedIn Badge](https://img.shields.io/badge/-Nidelson%20Gimenez-369?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nidelson)](https://linkedin.com/in/nidelson)
+[![Gmail Badge](https://img.shields.io/badge/-nidelson@gmail.com-369?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nidelson@gmail.com)](mailto:nidelson@gmail.com)
+
+## Stack
 
 <div style="display: flex; margin: 16px 0; gap: 16px;">
   <img alt="Nidelson-Git" height="40" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">
@@ -39,12 +35,12 @@ More than 25 years of experience in software development, web application specia
   <img alt="Nidelson-MySQL" height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png">
 </div>
 
+## GitHub Stats
+
+![](https://github-readme-status.vercel.app/api?username=nidelson&show_icons=true&theme=react&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nidelson&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nidelson&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+
 #
 
-<div style="display: flex; margin: 16px 0;">
-
-[![Twitter Badge](https://img.shields.io/badge/-@NidelsonGimenez-369?style=flat-square&labelColor=369&logo=twitter&logoColor=white&link=https://twitter.com/NidelsonGimenez)](https://twitter.com/NidelsonGimenez)
-[![LinkedIn Badge](https://img.shields.io/badge/-Nidelson%20Gimenez-369?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nidelson)](https://linkedin.com/in/nidelson)
-[![Gmail Badge](https://img.shields.io/badge/-nidelson@gmail.com-369?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nidelson@gmail.com)](mailto:nidelson@gmail.com)
-
-</div>
+[![](https://visitcount.itsvg.in/api?id=nidelson&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
