@@ -1,6 +1,6 @@
 # Nidelson Gimenez
 
-## Senior Software Engineer
+## Software Engineer
 
 More than 25 years of experience in software development, web application specialist. Passionate about JavaScript, TypeScript, React, React Native, Node, Next and the entire ecosystem around these technologies. Detailist focused on quality. Always seeking to improve development and communication processes. Adept at Clean Code, Clean Architecture and agile methodologies like Scrum, Kanban and SAFe, as well as Holaccracy.
 
