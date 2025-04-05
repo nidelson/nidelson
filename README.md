@@ -13,6 +13,7 @@ More than 25 years of experience in software development, web application specia
   <img alt="Nidelson-NodeJS" height="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img alt="Nidelson-ReactJS" height="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
   <img alt="Nidelson-ReactNative" height="40" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
+  <img alt="Nidelson-Expo" height="40" src="https://www.svgrepo.com/show/353723/expo-icon.svg">
   <img alt="Nidelson-NextJS" height="40" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png">
   <img alt="Nidelson-Firebase" height="40" src="https://cdn.worldvectorlogo.com/logos/firebase-2.svg">
   <img alt="Nidelson-Cypress" height="40" src="https://www.svgrepo.com/show/353630/cypress.svg">
