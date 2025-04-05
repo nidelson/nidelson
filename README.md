@@ -13,8 +13,8 @@ More than 25 years of experience in software development, web application specia
   <img alt="Nidelson-NodeJS" height="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img alt="Nidelson-ReactJS" height="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
   <img alt="Nidelson-ReactNative" height="40" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
-  <img alt="Nidelson-Expo" height="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fexpo.io%2F&psig=AOvVaw0xq2Hb8umMEXfVNtZgNPQw&ust=1743901227149000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiZ4MTYv4wDFQAAAAAdAAAAABAJ">
-  <img alt="Nidelson-NextJS" height="40" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png">
+  <img alt="Nidelson-Expo" height="40" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fexpo.io%2F&psig=AOvVaw0xq2Hb8umMEXfVNtZgNPQw&ust=1743901227149000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiZ4MTYv4wDFQAAAAAdAAAAABAJ">
+  <img alt="Nidelson-NextJS" height="40" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png](https://scontent.fcpq4-1.fna.fbcdn.net/v/t39.30808-1/292449664_534790351778780_8076701901009628740_n.png?stp=dst-png_s480x480&_nc_cat=106&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=jhfHMsH2OUMQ7kNvwG4DO5A&_nc_oc=AdmazdvPlq51fKmbtJ3nnVoNEYq1_ZdalHdjHDO-uVj5Prdq24aaDrZZj2rKOQ6i2iU&_nc_zt=24&_nc_ht=scontent.fcpq4-1.fna&_nc_gid=15WNS6QwN48goJ_pvgyecg&oh=00_AYG9p9kBpvf761298NUuzYK-v-LhsDTOVf8PnRkfs-P7nA&oe=67F64972">
   <img alt="Nidelson-Firebase" height="40" src="https://cdn.worldvectorlogo.com/logos/firebase-2.svg">
   <img alt="Nidelson-Cypress" height="40" src="https://www.svgrepo.com/show/353630/cypress.svg">
 </div>
