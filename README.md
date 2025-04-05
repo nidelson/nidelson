@@ -13,7 +13,7 @@ More than 25 years of experience in software development, web application specia
   <img alt="Nidelson-NodeJS" height="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img alt="Nidelson-ReactJS" height="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
   <img alt="Nidelson-ReactNative" height="40" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg">
-  <img alt="Nidelson-Expo" height="40" src="<svg fill="#000000" viewBox="-3.84 -3.84 31.68 31.68" role="img" xmlns="http://www.w3.org/2000/svg" stroke="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"><rect x="-3.84" y="-3.84" width="31.68" height="31.68" rx="15.84" fill="#ffffff" strokewidth="0"></rect></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path d="M0 20.084c.043.53.23 1.063.718 1.778.58.849 1.576 1.315 2.303.567.49-.505 5.794-9.776 8.35-13.29a.761.761 0 0 1 1.248 0c2.556 3.514 7.86 12.785 8.35 13.29.727.748 1.723.282 2.303-.567.57-.835.728-1.42.728-2.046 0-.426-8.26-15.798-9.092-17.078-.8-1.23-1.044-1.498-2.397-1.542h-1.032c-1.353.044-1.597.311-2.398 1.542C8.267 3.991.33 18.758 0 19.77z"></path></g></svg>">
+  <img alt="Nidelson-Expo" height="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fexpo.io%2F&psig=AOvVaw0xq2Hb8umMEXfVNtZgNPQw&ust=1743901227149000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiZ4MTYv4wDFQAAAAAdAAAAABAJ">
   <img alt="Nidelson-NextJS" height="40" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png">
   <img alt="Nidelson-Firebase" height="40" src="https://cdn.worldvectorlogo.com/logos/firebase-2.svg">
   <img alt="Nidelson-Cypress" height="40" src="https://www.svgrepo.com/show/353630/cypress.svg">
