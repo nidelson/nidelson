@@ -2,7 +2,7 @@
 
 ## AI-First Systems Architect
 
-# Stop writing code. Start designing thinkers.
+### Stop writing code. Start designing thinkers.
 
 AI-First Systems Architect with 25+ years in software engineering. I used to write code. Now I make AI think.
 
@@ -22,7 +22,6 @@ Currently exploring: Agentic SDLC · Multi-agent orchestration (BMAD Method) · 
 
 <div style="display: flex; margin: 16px 0; gap: 16px;">
   <img alt="Nidelson-Git" height="40" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">
-  <img alt="Nidelson-JS" height="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
   <img alt="Nidelson-TS" height="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
   <img alt="Nidelson-NodeJS" height="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   <img alt="Nidelson-ReactJS" height="40" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
