@@ -1,9 +1,23 @@
 # Nidelson Gimenez
 
-## Systems Architect | AI First
+## AI-First Systems Architect
 
-More than 25 years of experience in software development, web application specialist. Passionate about JavaScript, TypeScript, React, React Native, Node, Next and the entire ecosystem around these technologies. Detailist focused on quality. Always seeking to improve development and communication processes. Adept at Clean Code, Clean Architecture and agile methodologies like Scrum, Kanban and SAFe, as well as Holaccracy.
+# Stop writing code. Start designing thinkers.
 
+AI-First Systems Architect with 25+ years in software engineering. I used to write code. Now I make AI think.
+
+My focus today is designing agent ecosystems (A2A orchestration), embedding AI-first practices into an Agentic SDLC, and pushing teams toward hyper-efficiency — measuring leverage, not lines of code. I architect the system, the agents implement it.
+
+Background built on Python, Node, TypeScript, React, React Native, Next.js, and the broader ecosystem. Strong opinions on Clean Code, Clean Architecture, and shipping quality at speed.
+
+Operate fluently across agile frameworks: Scrum, Kanban, SAFe, Holacracy.
+
+Currently exploring: Agentic SDLC · Multi-agent orchestration (BMAD Method) · Second Brain as agent memory · LLM cost engineering.
+
+---
+
+🔗 [LinkedIn](https://www.linkedin.com/in/nidelson)
+  
 ## Stack
 
 <div style="display: flex; margin: 16px 0; gap: 16px;">
